@@ -1,5 +1,8 @@
 _repo: The-Jumano-Indians_70357
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70357-h/images/cover.jpg
 creator:
   author:
     agent_name: Hodge, Frederick Webb
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41882
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Webb_Hodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70357#The-Jumano-Indians
 gutenberg_issued: '2023-03-24'
 identifiers:
   gutenberg: '70357'
